@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Matheus Fontes Caram GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfontescaram&show_icons=true)](https://github.com/matheusfontescaram/github-readme-stats)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfontescaram)](https://github.com/matheusfontescaram/github-readme-stats)
+
 <!--
 **MatheusFontesCaram/MatheusFontesCaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
