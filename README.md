@@ -1,17 +1,10 @@
-### Hello! Welcome to my GitHub !
+### Welcome! Thanks for coming!
 
 About me:
  - 💻 Studying the Programmer Analyst course at CDI College (Expected End Date - July/2023)
  - 🌱 I’m currently learning Web Animation with JS
  - 📈 Looking for the first opportunity in Software Development
  - ⚡ I'm Brazilian and I currently live in Laval, Quebec - Canada
-
-
-
-
-
-
-
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -21,12 +14,6 @@ About me:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  </div><br>
  
- 
-  
-  
-  
-
-
 [![Matheus Fontes Caram GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusfontescaram&show_icons=true)](https://github.com/matheusfontescaram/github-readme-stats) 
 
 
