@@ -13,7 +13,7 @@ About me:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" height="100" width="100" src="https://media2.giphy.com/media/vqxviVfqGAa14SgeiC/giphy.gif"/>
+  <img align="right" height="100" width="100" src="https://media.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif"/>
   
   
  </div><br>
