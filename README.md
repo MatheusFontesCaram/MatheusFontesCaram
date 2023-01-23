@@ -4,7 +4,7 @@ About me:
  - 💻 Studying the Programmer Analyst course at CDI College (Expected End Date - July/2023)
  - 🌱 I’m currently learning Web Animation with JS
  - 📈 Looking for the first opportunity in Software Development
- - ⚡ I'm Brazilian and I currently live in Laval, Quebec - Canada
+ - ⚡ Brazilian living in Laval, Quebec - Canada
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
