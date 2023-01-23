@@ -1,11 +1,20 @@
-### Hi there 👋
+### Hello! Welcome to my GitHub 💻
 
 About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: Web Animation 
-- 👯 I’m looking to collaborate on ...
-- ⚡ Fun fact: ...
+
+
+ - 🔭 I’m currently working on ...
+ - 🌱 I’m currently learning: Web Animation 
+ - 👯 I’m looking to collaborate on ...
+ - ⚡ Fun fact: ...
+
+
+
+
+
+
+
 
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
@@ -13,9 +22,6 @@ About me:
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="right" height="100" width="100" src="https://media.tenor.com/f-nICqWLnrQAAAAC/programmer-cycle.gif"/>
-  
-  
  </div><br>
  
  
