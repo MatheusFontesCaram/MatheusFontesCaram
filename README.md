@@ -1,13 +1,10 @@
-### Hello! Welcome to my GitHub 💻
+### Hello! Welcome to my GitHub !
 
 About me:
-
-
-
- - 🔭 I’m currently working on ...
- - 🌱 I’m currently learning: Web Animation 
- - 👯 I’m looking to collaborate on ...
- - ⚡ Fun fact: ...
+ - 💻 Studying the Programmer Analyst course at CDI College (Expected End Date - July/2023)
+ - 🌱 I’m currently learning Web Animation with JS
+ - 📈 Looking for the first opportunity in Software Development
+ - ⚡ I'm Brazilian and I currently live in Laval, Quebec - Canada
 
 
 
@@ -41,10 +38,11 @@ About me:
 
 Here are some ideas to get you started: 
 
-- 🤔 I’m looking for help with ...
+- 🤔 I'm looking for help to acquire more experience
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 👯 I’m looking to collaborate on ...
 
 -->
 
