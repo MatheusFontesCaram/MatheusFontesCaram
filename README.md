@@ -2,7 +2,7 @@
 
 About me:
  - 💻 Studying the Programmer Analyst course at CDI College (Expected End Date - July/2023)
- - 🌱 I’m currently learning Web Animation with JS
+ - 🌱 I’m currently learning Web Programming
  - 📈 Looking for the first opportunity in Software Development
  - ⚡ Brazilian living in Laval, Quebec - Canada
 
